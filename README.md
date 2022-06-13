@@ -2,6 +2,7 @@
 Workflow notebook for tensorflow object detection tasks
 
 Contains following steps
+
 0. setup folder paths
 1. Download TF Models Pretrained Models from Tensorflow Model Zoo and Install TFOD
 2. Create Label Map
